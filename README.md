@@ -10,8 +10,8 @@ You can open `*.bplist` files using BeatDrop, and they should be recognized by t
 The goal is to add all ranked songs, except the ones that are "weeb". This is a little bit difficult to classify, but I've essentially skipped all the songs that:
 - ...have anime for their cover art; *or*
 - ...are from an anime or Japanese video game; *or*
-- ...when I Google them and weeb stuff shows up; *or*
-- ...if they're a Korean boy band, to be honest.
+- ...have weeb stuff show up when I Google them; *or*
+- ...are by a Korean boy band, to be honest.
 
 ## 😡 Why are you being mean to weebs?
 I'm sorry, but I don't like the majority of ranked songs, and they all seem to have "weeb" in common. The majority of the ranking team seems to be focused on that type of music, and that's fine but it's just not my ☕ cup of tea.
