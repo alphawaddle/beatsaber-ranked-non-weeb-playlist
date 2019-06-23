@@ -13,6 +13,8 @@ The goal is to add all ranked songs, except the ones that are "weeb". This is a 
 - ...have weeb stuff show up when I Google them; *or*
 - ...are by a Korean boy band, just because.
 
+Some exceptions were made here and there for mainstream and remix stuff, and it's definitely not 100% perfect.
+
 ## 😡 Why are you being mean to weebs?
 I'm sorry, but I don't like the majority of ranked songs, and they all seem to have "weeb" in common. The majority of the ranking team seems to be focused on that type of music, and that's fine but it's just not my ☕ cup of tea.
 
