@@ -241,10 +241,6 @@
          "songName":"Ramin Djawadi - The Queen's Justice (Game of Thrones)"
       },
       {
-         "hash":"9ef601a1454766347491d4e1df8c9f50ed94baec",
-         "songName":"EC1 - Approaching Nirvana - I'm on Fire"
-      },
-      {
          "hash":"8e6fd170583fd5c0fbe86c1c811f2400d7c3d8f9",
          "songName":"EC1 - R3SPAWN - Everything Goes"
       },
@@ -368,6 +364,126 @@
       {
          "hash":"00ccd52a38d10e367d78402270182ebd21d43f85",
          "songName":"MDK - Pandora"
+      },
+      {
+         "hash":"e95e6b02da5d37af7864637dca17e1b0d40dbbdb",
+         "songName":"Liberation - Harold van Lennep"
+      },
+      {
+         "hash":"3ed159a3439f52a1cba7de0e40fabfd9dc37bbda",
+         "songName":"Approaching Nirvana - Rainbow Notes"
+      },
+      {
+         "hash":"634b02591de26875948b70bdc502f74c71c2ef35",
+         "songName":"Thomas Bergersen - Magika"
+      },
+      {
+         "hash":"d5af11f4c5caed00d68cd030fe9e269b0d12eff0",
+         "songName":"Vicetone - Way Back ft. Cozi Zuehlsdorff"
+      },
+      {
+         "hash":"40b2d900d8301ab15df8043cdce8fd2686afff4f",
+         "songName":"John Powell - Test Drive (How to train your dragon)"
+      },
+      {
+         "hash":"74406bafe182afecceec46cb0cd3c32b2629b639",
+         "songName":"Wasted Love - Lush & Simon @ Gazzo"
+      },
+      {
+         "hash":"fd77126f3ed9900a045a3625c36e2aad4c1f4c3e",
+         "songName":"OneRepublic - Love Runs Out"
+      },
+      {
+         "hash":"528ec747c2716a78496c870caeed5a2c757ca217",
+         "songName":"Dr.Disrespect - Gillette (The Best A Man Can Get)"
+      },
+      {
+         "hash":"f8faac8d332eb77b698a9bf284140c36216a14b7",
+         "songName":"Do It Again - Holy Ghost"
+      },
+      {
+         "hash":"bb84a61400ae0f83a75e7fe6d887d5b0fc3569b1",
+         "songName":"Light It Up by Major Lazer"
+      },
+      {
+         "hash":"be2f9049c1af90024d84e45a253bd93ccf61f1d9",
+         "songName":"BJJ - Get Down"
+      },
+      {
+         "hash":"91e78271a7e4fb42092dc5671e82012293997723",
+         "songName":"You Are the End"
+      },
+      {
+         "hash":"b18c86ace7415d27d48162a7eafef40f03a1869d",
+         "songName":"Smash Into Pieces - Boomerang"
+      },
+      {
+         "hash":"a9e6b0c1942c89ecdfd3d0f6162ccb68bc04ce28",
+         "songName":"Eptic - Underworld"
+      },
+      {
+         "hash":"7f123b09a16ff0bdce6b0b9182cd89c46b936a5f",
+         "songName":"Astrogazer - D.J Totto"
+      },
+      {
+         "hash":"8ba8bc2465c017c7643ecc645263f03bccfafa64",
+         "songName":"Daft Punk - Face to face"
+      },
+      {
+         "hash":"b758ba486ddd190d87ef5c87525fb1286e36e52b",
+         "songName":"(V2) GYZE - HONESTY"
+      },
+      {
+         "hash":"c98bf8796b7a5312b73ec81344514fd9b6f1557b",
+         "songName":"Torches"
+      },
+      {
+         "hash":"e39d28aabe102e2681c231fbfd884cc15abfe8d3",
+         "songName":"Doomsday - (Nero)"
+      },
+      {
+         "hash":"0a5f887d9adec49122be302ac01d9e29296de7ca",
+         "songName":"Space Smasher"
+      },
+      {
+         "hash":"5d1464476afa2cae02879b1ba8df477bcf4e74b6",
+         "songName":"SIAMES - The Wolf"
+      },
+      {
+         "hash":"3b6e21a491136a4598b1d2fe12ba99637733a75b",
+         "songName":"Clean Bandit - Symphony feat. Zara Larsson"
+      },
+      {
+         "hash":"f8b7871978ef1d32fd559e5aacc825168e84c62e",
+         "songName":"Aladdin - Friend Like Me"
+      },
+      {
+         "hash":"0942a4ccaa61989a330f5cab9f3c314fdae15609",
+         "songName":"Qubism - Hate vs Brilliance"
+      },
+      {
+         "hash":"bc3f366cee6c92d32b022cf4dbf41797ea26e319",
+         "songName":"Bastille: Lethargy"
+      },
+      {
+         "hash":"2e6f858088c6d67e930e1bb357bd7455101b6626",
+         "songName":"Numb - Linkin Park"
+      },
+      {
+         "hash":"88153b55aa44acb502df9cf3871012dee3390bb4",
+         "songName":"Freaks - Timmy Trumpet Savage"
+      },
+      {
+         "hash":"f71a3e96d3fa3675eb16be368ee984395ad910fb",
+         "songName":"Jaroslav Beck - E3 2018 PSVR Announcement Trailer Song"
+      },
+      {
+         "hash":"fff756f6d76bd0049082d125773b6ec97c28c89b",
+         "songName":"Alone - Marshmello"
+      },
+      {
+         "hash":"df7e75ab20b9a27960c9f95e9f2b5ad0927c46dc",
+         "songName":"Xenogenesis - TheFatRat v2"
       }
    ]
 }
